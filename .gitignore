@@ -1,1 +1,5 @@
 .DS_Store
+hw/lesson08/y_train.csv
+hw/lesson08/train.csv
+hw/lesson08/test.csv
+hw/lesson08/y_test.csv
